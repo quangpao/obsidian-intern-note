@@ -19,7 +19,7 @@ Web thường chứa các văn bản, hình ảnh, video, cùng các tài liệu
 5. Tín hiệu sao khi về máy chủ của IP đích sẽ được xử lí để trả về dữ liệu mà bên client yêu cầu.
 
 ##### <font style="color:SkyBlue">Diễn giải phong cách ChatGPT</font>:
-1. Người dụng nhập địa chỉ URL:
+1. Người dùng nhập địa chỉ URL:
 	- Bạn nhập một địa chỉ web vào thanh địa chỉ của trình duyệt
 2. Trình duyệt tạo yêu cầu đến DNS
 	- Trình duyệt tạo yêu cầu để chuyển đổi tên miền thành địa chỉ IP tương ứng.

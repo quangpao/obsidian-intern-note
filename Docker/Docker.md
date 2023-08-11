@@ -1,1 +1,1 @@
- Là một nền tảng ứng dụng dựa trên [[Docker Container]], giúp đóng gói và chạy ứng dụng cùng với môi trường thực thi của chúng. Điều này giúp đơn giản hóa việc triển khai ứng dụng trên nhiều môi trường khác nhau mà không cần lo ngại về xung đột hay sự khác biệt trong môi trường
+Là một tập hợp các nền tảng  [[Docker Container]], giúp đóng gói và chạy ứng dụng cùng với môi trường thực thi của chúng. Điều này giúp đơn giản hóa việc triển khai ứng dụng trên nhiều môi trường khác nhau mà không cần lo ngại về xung đột hay sự khác biệt trong môi trường
