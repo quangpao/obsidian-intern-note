@@ -1,0 +1,1 @@
+Là một run-time environment của [[Docker]] nơi mà người dùng có thể chạy ứng dụng một cách độc lập cùng với mã nguồn, thư viện và tài nguyên cần thiết để chạy chúng.

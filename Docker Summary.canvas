@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"type":"file","file":"Docker/Docker.md","id":"6b1f81fb188a51da","x":-740,"y":-170,"width":400,"height":300},
+		{"type":"file","file":"Docker/Docker Image.md","id":"a46ad54b0a7113b4","x":349,"y":-310,"width":310,"height":200},
+		{"type":"file","file":"Docker/Docker compose.md","id":"12b2d3b8b9a52534","x":307,"y":-20,"width":400,"height":560},
+		{"type":"file","file":"Docker/Docker Swarm.md","id":"9fac38884494700c","x":-261,"y":140,"width":400,"height":660},
+		{"type":"file","file":"Docker/Swarm Architechture.png","id":"81c9a738ff95eef2","x":-413,"y":880,"width":705,"height":480},
+		{"type":"file","file":"Docker/Dockerfile.md","id":"39b2b2a4d5a7a752","x":840,"y":-540,"width":400,"height":680},
+		{"type":"file","file":"Docker/Docker Container.md","id":"3929e523a9cdb457","x":301,"y":-720,"width":407,"height":240},
+		{"type":"text","text":"Components","id":"d8668e7c4a850f7f","x":-186,"y":-270,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f01ed1b97573c739","fromNode":"d8668e7c4a850f7f","fromSide":"right","toNode":"3929e523a9cdb457","toSide":"left"},
+		{"id":"d840c29676c19e90","fromNode":"d8668e7c4a850f7f","fromSide":"right","toNode":"a46ad54b0a7113b4","toSide":"left"},
+		{"id":"9cd7346f2b6e3d18","fromNode":"39b2b2a4d5a7a752","fromSide":"left","toNode":"a46ad54b0a7113b4","toSide":"right","color":"3","label":"build"},
+		{"id":"f37f3803e0cb9de9","fromNode":"a46ad54b0a7113b4","fromSide":"top","toNode":"3929e523a9cdb457","toSide":"bottom","color":"3","label":"run"},
+		{"id":"094dd42d5a5a26c7","fromNode":"6b1f81fb188a51da","fromSide":"right","toNode":"d8668e7c4a850f7f","toSide":"left"},
+		{"id":"b25fadd28b8fd846","fromNode":"d8668e7c4a850f7f","fromSide":"right","toNode":"12b2d3b8b9a52534","toSide":"left"},
+		{"id":"e6067e90d6f1c715","fromNode":"6b1f81fb188a51da","fromSide":"right","toNode":"9fac38884494700c","toSide":"left"},
+		{"id":"a98dae69c3f6bbdd","fromNode":"9fac38884494700c","fromSide":"bottom","toNode":"81c9a738ff95eef2","toSide":"top"}
+	]
+}
