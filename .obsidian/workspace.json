@@ -11,8 +11,15 @@
             "id": "3e1d7e567138b16d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Network Summary.canvas",
+                "viewState": {
+                  "x": -1210,
+                  "y": 793,
+                  "zoom": -2.800889147274437
+                }
+              }
             }
           }
         ]
@@ -81,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Models/TCP-IP Extend/IP (Internet Protocol).md",
+                "file": "Network Summary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Models/TCP-IP Extend/IP (Internet Protocol).md",
+                "file": "Network Summary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Models/TCP-IP Extend/IP (Internet Protocol).md"
+                "file": "Network Summary.canvas"
               }
             }
           }
@@ -142,7 +149,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85fec7ffd655d775",
+  "active": "3e1d7e567138b16d",
   "lastOpenFiles": [
     "Network Summary.canvas",
     "Network/Protocols/UDP (User Datagram Protocol).md",
