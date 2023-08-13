@@ -7,4 +7,5 @@ Là một tập hợp các thiết bị **chia sẻ tài nguyên** với nhau b�
 [^1]: [[Network Topology]]
 ###### Các cách truyền dẫn network ([[Network Transmission Media]])
 ###### Các thiết bị ([[Devices]])
-###### Internet Protocol ([[IPv4]] & [[IPv6]])
+
+###### Giao thức ([[Protocols]])
