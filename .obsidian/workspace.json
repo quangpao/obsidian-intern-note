@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6e99c25ddd9b3e94",
+        "id": "54167bea33dc843c",
         "type": "tabs",
         "children": [
           {
-            "id": "3e1d7e567138b16d",
+            "id": "3c77ee320e78c146",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Network Summary.canvas",
-                "viewState": {
-                  "x": -1210,
-                  "y": 793,
-                  "zoom": -2.800889147274437
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Summary.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Summary.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Network Summary.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e1d7e567138b16d",
+  "active": "3c77ee320e78c146",
   "lastOpenFiles": [
     "Network Summary.canvas",
     "Network/Protocols/UDP (User Datagram Protocol).md",
