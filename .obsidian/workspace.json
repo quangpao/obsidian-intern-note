@@ -16,8 +16,8 @@
                 "file": "Network Summary.canvas",
                 "viewState": {
                   "x": -1210,
-                  "y": 793,
-                  "zoom": -2.800889147274437
+                  "y": 1250.5404549691023,
+                  "zoom": -1.8008891472744368
                 }
               }
             }
@@ -151,6 +151,9 @@
   },
   "active": "3c77ee320e78c146",
   "lastOpenFiles": [
+    "Network/Network Topology.md",
+    "Network/How A Website Work.pdf",
+    "Network/How does the Web work.md",
     "Network Summary.canvas",
     "Network/Protocols/UDP (User Datagram Protocol).md",
     "Network/Models/OSI Model.md",
@@ -172,11 +175,8 @@
     "Network/Checksum.md",
     "Pasted image 20230813162232.png",
     "Network/Models/TCP-IP Extend/Data Encapsulation.md",
-    "Network/How does the Web work.md",
-    "Network/How A Website Work.pdf",
     "Network/Devices.md",
     "Network/Network Transmission Media.md",
-    "Network/Network Topology.md",
     "Network/MAC Address.md",
     "Network/Protocols/Address Resolution Protocol.md",
     "Network/Protocols/Network Protocols.md",
