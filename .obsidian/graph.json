@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:\"Amazon Web Service\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 6.77083333333333,
   "linkStrength": 1,
   "linkDistance": 178,
-  "scale": 1.360480283528053,
+  "scale": 2.329107562524767,
   "close": true
 }

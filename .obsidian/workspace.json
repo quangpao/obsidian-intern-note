@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "54167bea33dc843c",
+        "id": "7f9f27b03aff5969",
         "type": "tabs",
         "children": [
           {
-            "id": "3c77ee320e78c146",
+            "id": "e5ce76196bfa3027",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Network Summary.canvas",
-                "viewState": {
-                  "x": -1210,
-                  "y": 1250.5404549691023,
-                  "zoom": -1.8008891472744368
-                }
+                "file": "Amazon Web Service/Services/AWS Identity and Access Management (IAM).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "22d926788d0e1fa9",
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Summary.canvas",
+                "file": "Amazon Web Service/Services/AWS Identity and Access Management (IAM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Summary.canvas",
+                "file": "Amazon Web Service/Services/AWS Identity and Access Management (IAM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Summary.canvas"
+                "file": "Amazon Web Service/Services/AWS Identity and Access Management (IAM).md"
               }
             }
           }
@@ -149,12 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c77ee320e78c146",
+  "active": "e5ce76196bfa3027",
   "lastOpenFiles": [
+    "Amazon Web Service/ImageStorage/Policy Inheritance.png",
+    "Amazon Web Service/ImageStorage",
+    "Amazon Web Service/Services/AWS Identity and Access Management (IAM).md",
+    "Amazon Web Service/Services",
+    "Amazon Web Service/AWS IAM & CLI.md",
+    "Amazon Web Service/Getting Started with AWS.md",
+    "Network Summary.canvas",
+    "Docker Summary.canvas",
+    "Amazon Web Service/ImageStorage/AWS History.png",
+    "Amazon Web Service/Deployment Models/Cloud-based.md",
+    "Amazon Web Service/Deployment Models/Hybrid.md",
+    "Amazon Web Service/Deployment Models/On-premises.md",
+    "Color pallete.md",
+    "Amazon Web Service/Deployment Models",
+    "Amazon Web Service",
     "Network/Network Topology.md",
     "Network/How A Website Work.pdf",
     "Network/How does the Web work.md",
-    "Network Summary.canvas",
     "Network/Protocols/UDP (User Datagram Protocol).md",
     "Network/Models/OSI Model.md",
     "Network/Protocols/Protocols.md",
@@ -179,7 +190,6 @@
     "Network/Network Transmission Media.md",
     "Network/MAC Address.md",
     "Network/Protocols/Address Resolution Protocol.md",
-    "Network/Protocols/Network Protocols.md",
-    "Docker Summary.canvas"
+    "Network/Protocols/Network Protocols.md"
   ]
 }
