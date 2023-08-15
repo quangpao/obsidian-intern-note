@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Service/Services/AWS Identity and Access Management (IAM).md",
+                "file": "Amazon Web Service/Services/AWS Elastic Compute Cloud (EC2).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Service/Services/AWS Identity and Access Management (IAM).md",
+                "file": "Amazon Web Service/Services/AWS Elastic Compute Cloud (EC2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Service/Services/AWS Identity and Access Management (IAM).md",
+                "file": "Amazon Web Service/Services/AWS Elastic Compute Cloud (EC2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Service/Services/AWS Identity and Access Management (IAM).md"
+                "file": "Amazon Web Service/Services/AWS Elastic Compute Cloud (EC2).md"
               }
             }
           }
@@ -148,12 +148,15 @@
   },
   "active": "e5ce76196bfa3027",
   "lastOpenFiles": [
+    "Amazon Web Service/Getting Started with AWS.md",
+    "Amazon Web Service/Services/AWS Elastic Compute Cloud (EC2).md",
+    "Amazon Web Service/Services/AWS Software Development Kit (SDK).md",
+    "Amazon Web Service/Services/AWS CLI.md",
+    "Amazon Web Service/Services/AWS Identity and Access Management (IAM).md",
     "Amazon Web Service/ImageStorage/Policy Inheritance.png",
     "Amazon Web Service/ImageStorage",
-    "Amazon Web Service/Services/AWS Identity and Access Management (IAM).md",
     "Amazon Web Service/Services",
     "Amazon Web Service/AWS IAM & CLI.md",
-    "Amazon Web Service/Getting Started with AWS.md",
     "Network Summary.canvas",
     "Docker Summary.canvas",
     "Amazon Web Service/ImageStorage/AWS History.png",
@@ -188,8 +191,6 @@
     "Network/Models/TCP-IP Extend/Data Encapsulation.md",
     "Network/Devices.md",
     "Network/Network Transmission Media.md",
-    "Network/MAC Address.md",
-    "Network/Protocols/Address Resolution Protocol.md",
-    "Network/Protocols/Network Protocols.md"
+    "Network/MAC Address.md"
   ]
 }

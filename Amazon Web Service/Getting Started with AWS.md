@@ -38,5 +38,10 @@ Có ba loại mô hình triển khai điện toán đám mây:
 
 ##### AWS Service
 - [[AWS Identity and Access Management (IAM)]]
+- [[AWS CLI]]
+- [[AWS Software Development Kit (SDK)]]
+- [[AWS Elastic Compute Cloud (EC2)]]
 - 
+
+
 [^1]: Bao gồm servers, storage, databases, networking, software, analytics, intelligence,...

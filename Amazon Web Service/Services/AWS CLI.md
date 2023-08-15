@@ -1,0 +1,5 @@
+- Là <font style="color:LightGreen">công cụ dòng lệnh</font> được cung cấp bởi AWS để <font style="color:Tomato">tương tác với các dịch vụ của AWS</font> thông qua giao diện dòng lệnh. Cho phép người dùng <font style="color:LightCoral">quản lý và và điều khiển</font> tài nguyên trên AWS mà không cần giao diện đồ họa.
+	- Là mã nguồn mở
+	- Thay thế cho AWS Management Console
+- Cung cấp một tập lệnh để thực hiện các tác vụ như thêm, sửa, xóa các tài nguyên. Có thể được <font style="color:LightCoral">thực hiện</font> thông qua các <font style="color:LightGreen">lệnh</font> và <font style="color:LightCoral">tự động hóa</font> thông các <font style="color:LightGreen">kịch bản</font> (scripts) và các <font style="color:LightGreen">tệp cấu hình</font> (configure file).
+	- Có thể truy cập <font style="color:Tomato">trực tiếp</font> đến các API của các dịch vụ AWS.
