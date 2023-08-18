@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Web Service/Services/AWS Elastic Compute Cloud (EC2).md",
+                "file": "Amazon Web Service/Services/AWS Virtual Private Cloud.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "22d926788d0e1fa9",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Web Service/Services/AWS Elastic Compute Cloud (EC2).md",
+                "file": "Amazon Web Service/Services/AWS Virtual Private Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Web Service/Services/AWS Elastic Compute Cloud (EC2).md",
+                "file": "Amazon Web Service/Services/AWS Virtual Private Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Web Service/Services/AWS Elastic Compute Cloud (EC2).md"
+                "file": "Amazon Web Service/Services/AWS Virtual Private Cloud.md"
               }
             }
           }
@@ -148,27 +149,32 @@
   },
   "active": "e5ce76196bfa3027",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Amazon Web Service/Services/AWS Virtual Private Cloud.md",
     "Amazon Web Service/Getting Started with AWS.md",
     "Amazon Web Service/Services/AWS Elastic Compute Cloud (EC2).md",
     "Amazon Web Service/Services/AWS Software Development Kit (SDK).md",
-    "Amazon Web Service/Services/AWS CLI.md",
     "Amazon Web Service/Services/AWS Identity and Access Management (IAM).md",
+    "Network/How does the Web work.md",
+    "Network/How A Website Work.pdf",
+    "Network/Devices.md",
+    "Amazon Web Service/Services/AWS CLI.md",
     "Amazon Web Service/ImageStorage/Policy Inheritance.png",
+    "Amazon Web Service/Deployment Models/Hybrid.md",
+    "Amazon Web Service/Deployment Models/On-premises.md",
+    "Amazon Web Service/Deployment Models/Cloud-based.md",
+    "Pasted image 20230815145604.png",
+    "Pasted image 20230815145559.png",
+    "Color pallete.md",
     "Amazon Web Service/ImageStorage",
     "Amazon Web Service/Services",
     "Amazon Web Service/AWS IAM & CLI.md",
     "Network Summary.canvas",
     "Docker Summary.canvas",
     "Amazon Web Service/ImageStorage/AWS History.png",
-    "Amazon Web Service/Deployment Models/Cloud-based.md",
-    "Amazon Web Service/Deployment Models/Hybrid.md",
-    "Amazon Web Service/Deployment Models/On-premises.md",
-    "Color pallete.md",
     "Amazon Web Service/Deployment Models",
     "Amazon Web Service",
     "Network/Network Topology.md",
-    "Network/How A Website Work.pdf",
-    "Network/How does the Web work.md",
     "Network/Protocols/UDP (User Datagram Protocol).md",
     "Network/Models/OSI Model.md",
     "Network/Protocols/Protocols.md",
@@ -183,14 +189,9 @@
     "Network/ImageStorage/ARP workflow.png",
     "Network/Models/TCP-IP Extend/IP (Internet Protocol).md",
     "Network/ImageStorage/TCP-IP Data Encapsulation.png",
-    "Network/ImageStorage/IPv4 Header.png",
     "Network/ImageStorage",
     "Network/Models/TCP-IP Model.md",
     "Network/Checksum.md",
-    "Pasted image 20230813162232.png",
-    "Network/Models/TCP-IP Extend/Data Encapsulation.md",
-    "Network/Devices.md",
-    "Network/Network Transmission Media.md",
-    "Network/MAC Address.md"
+    "Network/Models/TCP-IP Extend/Data Encapsulation.md"
   ]
 }

@@ -41,7 +41,7 @@ Có ba loại mô hình triển khai điện toán đám mây:
 - [[AWS CLI]]
 - [[AWS Software Development Kit (SDK)]]
 - [[AWS Elastic Compute Cloud (EC2)]]
-- 
+- [[AWS Virtual Private Cloud]]
 
 
 [^1]: Bao gồm servers, storage, databases, networking, software, analytics, intelligence,...
